@@ -1,4 +1,6 @@
-
+<p align="center">
+<img width="281" height="163" alt="image" src="https://github.com/user-attachments/assets/6ffc913e-e1d7-4560-bf31-1766b67c1b2d" />
+</p>
 
 # VPN - Prerequisites and Installation
 
