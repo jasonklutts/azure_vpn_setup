@@ -110,9 +110,9 @@ Now the VPN shows a **Japan IP address**.
 ## 🌍 Final Results
 From this exercise, we see 3 different IP addresses used to connect to the internet:  
 
-- **Home IP (USA):** ``  
-- **Virtual Machine IP (France):** ``  
-- **Virtual Machine IP via VPN (Japan):** ``  
+- **Home IP (USA):** `98.178.206.33`  
+- **Virtual Machine IP (France):** `20.199.82.110`  
+- **Virtual Machine IP via VPN (Japan):** `149.88.103.54`  
 
 ---
 
