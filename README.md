@@ -109,7 +109,7 @@ Now the VPN shows a **Japan IP address**.
 
 ---
 
-## 🌍 Final Results
+## Final Results
 From this exercise, we see 3 different IP addresses used to connect to the internet:  
 
 - **Home IP (USA):** `98.178.206.33`  
@@ -118,7 +118,7 @@ From this exercise, we see 3 different IP addresses used to connect to the inter
 
 ---
 
-## ⚠Cleanup
+## Cleanup
 If you no longer need the VM, delete it from your Azure account to avoid unwanted charges.
 
 
